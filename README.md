@@ -1,22 +1,19 @@
 ## Java and Spring Boot Unit Testing 
 This repository for Unit Testing using Junit5 
 # table of contents
--   [Introduction](#introduction)
--   [What is unit testing?](#what-is-unit-testing)
--   [Why do we need unit testing?](#why-do-we-need-unit-testing)
-    -   [Advantages of writing tests:](#advantages-of-writing-tests)
-        -   [Early detection of bugs](#early-detection-of-bugs)
-        -   [Code quality improvement](#code-quality-improvement)
-        -   [Time saving](#time-saving)
--   [Tools and Frameworks used for unit testing in Java:]
+
+.   [Advantages of writing tests:](#advantages-of-writing-tests)
+    .   [Early detection of bugs](#early-detection-of-bugs)
+    .   [Code quality improvement](#code-quality-improvement)
+    .   [Time saving](#time-saving)
 
 ### Prerequisites
 .  JDK version 17 or above<br>
 .  IDE (IntelliJ, Eclipse etc.) <br>
 .  Basic knowledge about OOP concepts<br>
-.  Jnit5<br><br>
+.  Jnit5<br>
 
-**Note : All the code examples are written assuming you're using IntelliJ as your IDE. If you're not using it, please adjust accordingly.
+* Note : All the code examples are written assuming you're using IntelliJ as your IDE. If you're not using it, please adjust accordingly.
 
 ## Introduction <a name="introduction"></a>
 This repository contains the code for a simple Java and Spring Boot application with unit testing using Junit5.
