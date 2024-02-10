@@ -2,10 +2,10 @@
 This repository for Unit Testing using Junit5 
 # table of contents
 
-.   [Advantages of writing tests:](#advantages-of-writing-tests)
-    .   [Early detection of bugs](#early-detection-of-bugs)
-    .   [Code quality improvement](#code-quality-improvement)
-    .   [Time saving](#time-saving)
+*   [Advantages of writing tests:](#advantages-of-writing-tests)
+    *   [Early detection of bugs](#early-detection-of-bugs)
+    *   [Code quality improvement](#code-quality-improvement)
+    *   [Time saving](#time-saving)
 
 ### Prerequisites
 .  JDK version 17 or above<br>
